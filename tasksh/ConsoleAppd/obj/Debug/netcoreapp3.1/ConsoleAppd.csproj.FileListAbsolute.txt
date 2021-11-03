@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\bin\Debug\netcoreapp3.1\ConsoleAppd.exe
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\bin\Debug\netcoreapp3.1\ConsoleAppd.deps.json
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\bin\Debug\netcoreapp3.1\ConsoleAppd.runtimeconfig.json
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\bin\Debug\netcoreapp3.1\ConsoleAppd.runtimeconfig.dev.json
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\bin\Debug\netcoreapp3.1\ConsoleAppd.dll
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\bin\Debug\netcoreapp3.1\ConsoleAppd.pdb
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\obj\Debug\netcoreapp3.1\ConsoleAppd.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\obj\Debug\netcoreapp3.1\ConsoleAppd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\obj\Debug\netcoreapp3.1\ConsoleAppd.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\obj\Debug\netcoreapp3.1\ConsoleAppd.AssemblyInfo.cs
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\obj\Debug\netcoreapp3.1\ConsoleAppd.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\obj\Debug\netcoreapp3.1\ConsoleAppd.dll
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\obj\Debug\netcoreapp3.1\ConsoleAppd.pdb
+C:\Users\HP\Desktop\taskt1\ConsoleAppd\ConsoleAppd\obj\Debug\netcoreapp3.1\ConsoleAppd.genruntimeconfig.cache
